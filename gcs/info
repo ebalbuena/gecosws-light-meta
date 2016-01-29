@@ -22,7 +22,7 @@ longdesc: "Desktop, system, libraries and the whole distribution depends are in 
 
 
 # Versión del paquete
-version: 3.0
+version: 4.0
 
 # Cambios en esta versión
 changes:
